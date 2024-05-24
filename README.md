@@ -1,7 +1,7 @@
-### Hello there (General Kenobi) 👋
+### Kalispera
 
 - 🔭 I’m currently working on having no enemies
-- 🌱 I’m currently learning Data Science ethics
+- 🌱 I’m currently learning Data Science and A.I (like, in general)
 - 🤔 I’m looking for help with life 🚬 
 - 💬 Ask me about anything, really 
 - 📫 How to reach me: assaultsalt on discord, 231999@buas.nl on outlook and spyrosgeorgiou2005@gmail.com on gmail.
