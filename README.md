@@ -25,5 +25,6 @@ Outside of tech, I'm into football, music, and overthinking. PAOK fan, obviously
 Open to ideas, collaborations, or just talking about cool stuff.
 
 
-![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) 
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-2x-orange.svg?logo=silvermedal) 
+
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-2x-orange.svg?logo=bronzemedal) 
