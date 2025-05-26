@@ -7,4 +7,4 @@
 - 📫 How to reach me: assaultsalt on discord, 231999@buas.nl on outlook and spyrosgeorgiou2005@gmail.com on gmail.
 - 😄 Pronouns: He/Him
 
-![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) 
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal) 
