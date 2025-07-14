@@ -2,7 +2,7 @@
 
 I'm Spyros. I work with data, code, and the occasional existential crisis.
 
-Currently studying Data Science and AI. I've worked on a few projects ranging from simple machine learning models to more experimental stuff involving natural language and computer vision. Nothing revolutionary — but I'm learning fast and building things that get better each time.
+Currently studying Data Science and AI. I've worked on a few projects ranging from simple machine learning models to more experimental stuff involving natural language and computer vision. Nothing revolutionary, but I'm learning fast and building things that get better each time.
 
 Outside of tech, I'm into football, music, and overthinking. PAOK fan, obviously.
 
@@ -13,7 +13,7 @@ Outside of tech, I'm into football, music, and overthinking. PAOK fan, obviously
 - Built a few ML pipelines for uni and personal projects
 - Dabbled in NLP and computer vision
 - Wrote some scripts I’m proud of and some I’d rather not talk about
-- Survived group projects — which should count for something
+- Survived group projects, which should count for something
 
 ---
 
