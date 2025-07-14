@@ -27,4 +27,4 @@ Open to ideas, collaborations, or just talking about cool stuff.
 
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-2x-orange.svg?logo=silvermedal) 
 
-![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-3x-orange.svg?logo=bronzemedal) 
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-4x-orange.svg?logo=bronzemedal) 
